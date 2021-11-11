@@ -54,3 +54,7 @@ Here are some other CSS and grid videos for inspiration and help.
 Here is some additional information about flexbox.
 
 * Flexbox design patterns (16 min): https://www.youtube.com/watch?v=vQAvjof1oe4
+
+Another blog demonstration video 
+
+* Building a blog (23 min): https://www.youtube.com/watch?v=YCaUBFZw_uo
