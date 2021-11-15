@@ -1,0 +1,33 @@
+.navbar {
+    background-color: rgb(233, 141, 20);
+    position: fixed;
+    float: left;
+    top: 0;
+    width: 150%;
+}
+
+body {
+    font-family: 'Times New Roman', Times, serif;
+    padding: 20px;
+    background: white;
+}
+  
+.header {
+    padding: 30px;
+    font-size: 40px;
+    text-align: center;
+    background: yellow;
+    width: 100%;
+    margin: auto
+}
+.card {
+    padding: 20px;
+    margin-top: 20px;
+    margin: auto;
+    width: 50%;
+}
+.card img {
+    width: 20%;
+    float: right;
+    padding-right: 5%;
+}
